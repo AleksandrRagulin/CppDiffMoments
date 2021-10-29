@@ -1,0 +1,3 @@
+C:/GeekBrains/DiffMoments/HT2/cmake-build-debug/CMakeFiles/HT2.dir
+C:/GeekBrains/DiffMoments/HT2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GeekBrains/DiffMoments/HT2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
