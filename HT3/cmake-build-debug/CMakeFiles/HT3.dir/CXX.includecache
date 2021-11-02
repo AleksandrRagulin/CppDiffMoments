@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GeekBrains/DiffMoments/HT3/Matrix.h
+iostream
+-
+
+C:/GeekBrains/DiffMoments/HT3/MyIterator.cpp
+MyIterator.h
+C:/GeekBrains/DiffMoments/HT3/MyIterator.h
+
+C:/GeekBrains/DiffMoments/HT3/MyIterator.h
+iterator
+-
+iostream
+-
+
+C:/GeekBrains/DiffMoments/HT3/main.cpp
+task1.h
+C:/GeekBrains/DiffMoments/HT3/task1.h
+Matrix.h
+C:/GeekBrains/DiffMoments/HT3/Matrix.h
+MyIterator.h
+C:/GeekBrains/DiffMoments/HT3/MyIterator.h
+
+C:/GeekBrains/DiffMoments/HT3/task1.h
+list
+-
+ctime
+-
+cstdlib
+-
+iostream
+-
+
