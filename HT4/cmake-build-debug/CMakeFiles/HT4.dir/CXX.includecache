@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GeekBrains/DiffMoments/HT4/main.cpp
+task1.h
+C:/GeekBrains/DiffMoments/HT4/task1.h
+task2.h
+C:/GeekBrains/DiffMoments/HT4/task2.h
+
+C:/GeekBrains/DiffMoments/HT4/task1.h
+vector
+-
+iostream
+-
+
+C:/GeekBrains/DiffMoments/HT4/task2.cpp
+task2.h
+C:/GeekBrains/DiffMoments/HT4/task2.h
+
+C:/GeekBrains/DiffMoments/HT4/task2.h
+ctime
+-
+cstdlib
+-
+vector
+-
+iostream
+-
+cmath
+-
+
