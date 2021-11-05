@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GeekBrains/DiffMoments/HT5/task2.cpp
+task2.h
+C:/GeekBrains/DiffMoments/HT5/task2.h
+
+C:/GeekBrains/DiffMoments/HT5/task2.h
+iostream
+-
+vector
+-
+set
+-
+ostream
+-
+iterator
+-
+algorithm
+-
+
