@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/GeekBrains/DiffMoments/HT6/task3.cpp
+task3.h
+C:/GeekBrains/DiffMoments/HT6/task3.h
+
+C:/GeekBrains/DiffMoments/HT6/task3.h
+iostream
+-
+thread
+-
+list
+-
+chrono
+-
+timer.h
+C:/GeekBrains/DiffMoments/HT6/timer.h
+
+C:/GeekBrains/DiffMoments/HT6/timer.h
+chrono
+-
+iostream
+-
+
